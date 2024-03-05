@@ -7,6 +7,12 @@ const users = [
     email: 'user@nextmail.com',
     password: '123456',
   },
+  {
+    id: '410544b3-4001-4271-9855-fec4b6a6442a',
+    name: 'Darshu',
+    email: 'darshu@email.com',
+    password: 'Darshu@321',
+  },
 ];
 
 const customers = [
@@ -14,6 +20,12 @@ const customers = [
     id: '3958dc9e-712f-4377-85e9-fec4b6a6442a',
     name: 'Delba de Oliveira',
     email: 'delba@oliveira.com',
+    image_url: '/customers/delba-de-oliveira.png',
+  },
+  {
+    id: '3958ec9e-712f-4377-85e9-fec4b6a6442a',
+    name: 'Teju',
+    email: 'Teju@kadupaapa.com',
     image_url: '/customers/delba-de-oliveira.png',
   },
   {
